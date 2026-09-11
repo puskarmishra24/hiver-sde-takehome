@@ -1,0 +1,8 @@
+@"
+pandas
+scikit-learn
+pyyaml
+tqdm
+openai
+scipy
+"@ | Set-Content requirements.txt

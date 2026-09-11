@@ -1,0 +1,221 @@
+customer_tweet_id,customer_message,true_intent,predicted_intent,correct
+328518,@AppleSupport mom got an email from this address and opened it. It's in German. She's convinced it's real. #spam https\://t.co/T293nXTRwp,security_phishing_issue,app_or_media_issue,False
+1533802,@115858 @AppleSupport  IM SO FUCKING SICK OF MY PHONE PLAYING UP EVERY TIME A NEW ONE COMES OUT IVE NOT EVEN HAD THIS ONE FOR A YEAR YET,device_performance_issue,app_or_media_issue,False
+539873,@AppleSupport just bought an album. Keeps saying item is not available when I try to play it in Music. It won’t let download it either.,app_or_media_issue,app_or_media_issue,True
+2039356,I did exactly that @AppleSupport yet ..... or do you want me to throwaway my iPhone 7 and get the X? I’m not understanding anything again https\://t.co/dszcLP2lZF,general_or_unclear,app_or_media_issue,False
+1527759,MY I️ ISNT WORKING APPLE (eye but the single letter) @115858 @AppleSupport,keyboard_input_issue,app_or_media_issue,False
+620144,@AppleSupport My iPhone..it keeps wanting me to put my password in for my exchange account then it says it’s wrong. I can’t even reset it through my actual email website.,apple_id_icloud_issue,apple_id_icloud_issue,True
+249331,@AppleSupport put all my PICTURES AND SHIT BACK,apple_id_icloud_issue,app_or_media_issue,False
+1962797,@AppleSupport  extremely frustrating (and coincidental??) that my phone slows way down with the new updates...since the NEW phones are out🤬,software_update_issue,software_update_issue,True
+2623623,Please @115858 @AppleSupport @116333 @123857 @119462 Repair the way @12228 show the released date app. Thank you https\://t.co/JUjDyD5ZTs,product_feature_question,app_or_media_issue,False
+2774315,"@AppleSupport Yeah, I did that. However, the map was not edited to reflect my (correct) feedback. How do I make sure the map does get changed?",product_feature_question,app_or_media_issue,False
+1763713,@AppleSupport hi there my iPhone has been disabled.,general_or_unclear,product_feature_question,False
+1786835,Hey @118721 it would be nice if you stopped getting my wife's debit card hacked. @AppleSupport why does this keep happening?,security_phishing_issue,security_phishing_issue,True
+326661,@AppleSupport Just got an iPhone 8. So it would be iOS 11. Thanks!,general_or_unclear,software_update_issue,False
+928040,@AppleSupport Thanks for replying. I’m using iPhone 6s and iOS 11.0.2.,general_or_unclear,software_update_issue,False
+794547,@AppleSupport Thank you for responding! I've now been notified to update to the iOS 11.0.3 - will be in touch if the issues still occur post-update.,general_or_unclear,software_update_issue,False
+1773730,@AppleSupport Does Apple no longer sell a wired USB keyboard??,order_sales_issue,keyboard_input_issue,False
+2771772,"@AppleSupport Been told I’ve got to fly to Japan to get it fixed, seems a bit impractical",warranty_repair_recycling,app_or_media_issue,False
+1767381,@AppleSupport what happened to text replacement on iPhone X? It’s not saving nor did it sync over! #iPhoneX,keyboard_input_issue,warranty_repair_recycling,False
+1420126,@AppleSupport It started with iOS 11. Thanks,general_or_unclear,software_update_issue,False
+946675,@AppleSupport Didn’t have these issues prior to installing update. I know others with same issue of phone bogging down since update,device_performance_issue,software_update_issue,False
+11992,@115858 @AppleSupport your latest iOS update had made my phone slower and apps like iMessage are slow to open and load.  What’s up with this?,software_update_issue,software_update_issue,True
+2146547,@AppleSupport I bought my iPhone 7 last week and it won’t stop freezing I’ve had to reset it about 6 times today already,device_performance_issue,device_performance_issue,True
+541132,@230273 @AppleSupport Thanks!,general_or_unclear,app_or_media_issue,False
+2981642,@AppleSupport still no haptic feedback on iPhone keyboard 📱 after new update. ??? Has this been disabled.,keyboard_input_issue,keyboard_input_issue,True
+1954674,@AppleSupport I’m on the latest version and I just got my 7 a few months ago. This has happened with the last two phones now and I’m not the only one.,general_or_unclear,app_or_media_issue,False
+427833,@AppleSupport @115858 the battery life of my 6S is horrendous after iOS https\://t.co/t4CyQ5ZBMd REALLY need to address this ASAP,device_performance_issue,software_update_issue,False
+42621,@AppleSupport 11.1. Happening on my iPad as well so version number.,general_or_unclear,hardware_accessory_issue,False
+1705374,@516902 @115858 @AppleSupport this has been fucking me up all day,general_or_unclear,app_or_media_issue,False
+2242117,@AppleSupport These messages are invisibles ...my iPhone sends that automatically. But my number is not registered by iMessage,apple_id_icloud_issue,app_or_media_issue,False
+590926,@AppleSupport love my iPhone X. But the new live wallpapers are stutter so much :/ plan on releasing an update where they don’t?,app_or_media_issue,software_update_issue,False
+286211,Getting distorted outgoing Voice msg quality w the last update to #iPhone &amp; #WhatsApp @4305 @AppleSupport Bluetooth is off but sounds on,app_or_media_issue,connectivity_issue,False
+554720,@2531 @AppleSupport        I just got a new iPhone but when my sister transferred my media and everything else to this new phone EVERYTHING GOT DELETED and I’m so upset I lost everything 😭,apple_id_icloud_issue,app_or_media_issue,False
+829125,@AppleSupport Yes but it isn’t charged at all.... still ok to charge and use it?,hardware_accessory_issue,payment_billing_issue,False
+740616,Hey @AppleSupport can you message me I have a question about updating my IOS,software_update_issue,software_update_issue,True
+148245,@115858 @AppleSupport If I were to buy an apple product today with student discount would I be eligible to receive the black Friday event gift card?,order_sales_issue,order_sales_issue,True
+1629794,@65298 @AppleSupport Hahaha help me!,general_or_unclear,app_or_media_issue,False
+2126015,Who do I speak to about fixing this when there are no Genius Bar reservations in Sheffield? 😤@115858 @AppleSupport needthis sorting ASAP 😑😑😑 https\://t.co/KtpY6AP1Gv,warranty_repair_recycling,app_or_media_issue,False
+2840352,"@790404 @115858 @AppleSupport ¡Sí! Muchas de las funciones se han se han vuelto notablemente más lentas. Ayer le iba a tomar una foto a un bebé recién nacido, y para cuando funcionó la cámara, ya estaba haciendo su primera comunión. 😔",device_performance_issue,app_or_media_issue,False
+2321834,@AppleSupport Hello!  I did make sure all my apps were updated.  Iphone freezes during texting(I've turned off all settings) and scrolling .  It even freezes when I enter my 4 digit passcode to use my phone.  At times I reboot to unfreeze it.,device_performance_issue,device_performance_issue,True
+1524131,Seriously @AppleSupport @115858 why can’t EYE TYPE THE LETTER EYE https\://t.co/vm4KaEeem4,keyboard_input_issue,app_or_media_issue,False
+2302684,@AppleSupport Yes tried that - made an appointment!,warranty_repair_recycling,app_or_media_issue,False
+178665,"@AppleSupport Also, since this update, I can no longer play music in my car. It reads media error message.",app_or_media_issue,software_update_issue,False
+1674094,@AppleSupport It doesn’t change to an I it’s just a box with a question mark in it,keyboard_input_issue,app_or_media_issue,False
+1800931,@AppleSupport Why is my phone even worse after the last iOS update I have to charge twice a day now,device_performance_issue,software_update_issue,False
+2552446,"@AppleSupport hurry up and sort out a new update for those of us that aren’t fortunate enough to have the latest iPhone!! Fed up of BT randomly coming on, draining battery and data roaming randomly turning off.  REALLY irritating!!",connectivity_issue,software_update_issue,False
+2355893,"@AppleSupport Why when I delete emails from my mail app, do they reappear seconds later??",app_or_media_issue,app_or_media_issue,True
+1188314,everything keeps freezing up and shutting off and my phone keeps restarting itself hellooooooooooo @AppleSupport,device_performance_issue,device_performance_issue,True
+2575320,Why is it that @115858 @AppleSupport can’t make my ringtones (that I paid for) work after three iOS updates? #heldhostagebyapple,app_or_media_issue,software_update_issue,False
+2784609,"@AppleSupport With iMessage, texting, in notes, with any social media apps, etc. It’s the keyboard that’s the issue because anywhere I try to do an emoji, the keyboard freezes.",keyboard_input_issue,keyboard_input_issue,True
+1704704,&amp; i just updated my phone &amp; the eye still don’t work @AppleSupport,keyboard_input_issue,software_update_issue,False
+90664,@AppleSupport hello my iPhone is a couple of months old and has started randomly switching itself off. I’ve managed to turn it on using a power source but there’s 40% battery. Any advice?,device_performance_issue,device_performance_issue,True
+2014718,Hi @AppleSupport can y’all fix my keyboard I I can use the letter I️ thanks lol,keyboard_input_issue,keyboard_input_issue,True
+2500885,"@AppleSupport @115858 instead of charging £1000+ for new phones it would be great if you could sort out your OS first! #ios11 is the worst update I’ve ever experienced! Frequent crashes, apps hanging, delayed usage, random restarts, UI issues, volume glitches, the list goes on!!🤬",software_update_issue,software_update_issue,True
+2140948,@AppleSupport @118936 @23150 @160959 I️ I️ I️ I️ I️ I️ I️ I️ I️ I️ I️ I️ I️ I️ please help I️ I️ I️ I️ I️,keyboard_input_issue,app_or_media_issue,False
+2636962,Okay. @AppleSupport when will my phone let me type regular capital i’s again?,keyboard_input_issue,app_or_media_issue,False
+2976613,@AppleSupport I upgraded my iPhone 8 to iOS 11.1.1 and it caused my iPhone to be stuck on the apple logo and keeps rebooting for ever. I searched the Internet and found out that it is a common issue. Is there a fix?,device_performance_issue,software_update_issue,False
+2367724,@AppleSupport having issues with music purchased on iTunes it will not show up on my iPod in any playlists,app_or_media_issue,app_or_media_issue,True
+2548157,"@AppleSupport hi, constantly try to get my artist page verified-start process, but cant get past my log in details as page always times out",support_contact_issue,app_or_media_issue,False
+2072715,"@AppleSupport my iPhone doesn’t connect to car BT properly, battery dies quick, apps close, lag comes, calls don’t work, etc What r u doing!",device_performance_issue,device_performance_issue,True
+1937283,@115948 @AppleSupport - music added is disappearing mysteriously! I assume you know the issue already!,app_or_media_issue,app_or_media_issue,True
+2479119,"@116333 @120640 @AppleSupport @AppleSupport can you guys fix my issue.my case is pending since 13th oct.. Case ID: 100321666771
+
+Really disappointed with the service @116333 cook @120640",support_contact_issue,app_or_media_issue,False
+215806,@AppleSupport So every time I go for a walk my cellular data stays off and I keep manually have to turn it on since the update I’ve never had to do this,connectivity_issue,software_update_issue,False
+1059780,iOS 11.0.3 is trippin’ out so bad.. 😞😞 @115858 @AppleSupport #iPhone7Plus,general_or_unclear,software_update_issue,False
+506501,"@AppleSupport using IOS 11.1.2, a dark screen with loading circle icon.",device_performance_issue,software_update_issue,False
+2369542,"If u need to get in contact with me, pls DM me because my phone won't turn on 😩 it's been like this for about 2 hours @AppleSupport https\://t.co/DBeh8IEtsk",device_performance_issue,app_or_media_issue,False
+1507293,@AppleSupport what is going on?,general_or_unclear,app_or_media_issue,False
+994499,@AppleSupport Just upgraded to 11.0.3 and it killed my cell service. How do I fix this?,connectivity_issue,software_update_issue,False
+1769960,@AppleSupport fix my i️ please,keyboard_input_issue,app_or_media_issue,False
+1773448,@AppleSupport fix the goddamn “I” issue.,keyboard_input_issue,app_or_media_issue,False
+2730400,"@AppleSupport 
+
+It’s happening again. Is there going to be an update to address this, or this just the “new normal”? https\://t.co/gnWFaWgh1I",general_or_unclear,software_update_issue,False
+2002436,@AppleSupport Oh yay!! I’m going to download right now!!,general_or_unclear,app_or_media_issue,False
+445986,"@AppleSupport re: Keynote…why is the default layout for presentations 4:3? Apple pushes progress, so shouldn’t the default be 16:9?",product_feature_question,app_or_media_issue,False
+2280939,@AppleSupport Started with 11.1 and not resolved by the latest update,general_or_unclear,software_update_issue,False
+1991153,@AppleSupport It’s been four days and a contact I added still isn’t synced with iCloud.,apple_id_icloud_issue,apple_id_icloud_issue,True
+2838665,@AppleSupport This is getting old. I wasn’t even out in the cold and and I had to reset my phone 4 times before the screen started working. I’m running 11.2,device_performance_issue,hardware_accessory_issue,False
+1772557,@AppleSupport I have a case on my phone and I always have to restart my phone whenever it freezes,device_performance_issue,device_performance_issue,True
+110862,@AppleSupport Yea I believe so it’s a bit off,general_or_unclear,app_or_media_issue,False
+1095197,#Siri hasn’t worked on my phone 📱 since the update @AppleSupport what’s good? #iOS11,app_or_media_issue,software_update_issue,False
+2920059,@AppleSupport Done. It would be appreciated if you passed this request on to the powers that be as well.,general_or_unclear,app_or_media_issue,False
+542395,"@AppleSupport My Mac account is set in Italian, but just after the last security patch (17B1003), these #macOSHighSierra warns appears in mixed English and Italian. Any solution? https\://t.co/o282WIprDW",software_update_issue,app_or_media_issue,False
+1896438,@AppleSupport how is my phone losing battery power while it’s plugged into the wall (says charging) &amp; on low power mode????,device_performance_issue,device_performance_issue,True
+92557,"@AppleSupport I did an icloud backup two days ago, i’ll update my software",general_or_unclear,apple_id_icloud_issue,False
+1845369,@AppleSupport this update is booboo. Crap. Shitake. I want my flip phone back.,software_update_issue,software_update_issue,True
+1341727,"@AppleSupport It appears to be ""\_\_email\_\_""",security_phishing_issue,app_or_media_issue,False
+2033583,@AppleSupport need to cancel a Genius Bar appointment but it’s not letting me do it online. Need help - appt tonight.,warranty_repair_recycling,app_or_media_issue,False
+2606723,@AppleSupport (2/2) phone and going to my iPad. I’ve checked the settings on both devices. What’s going on?,general_or_unclear,hardware_accessory_issue,False
+2439724,@AppleSupport Hi! Can you help me out with an order I made?,order_sales_issue,order_sales_issue,True
+366160,@AppleSupport upgraded to iOS11.02 and watched my battery plummet from 50% to 2% in less than 10 minutes! Hope this is being sorted?!,device_performance_issue,software_update_issue,False
+1616675,@AppleSupport Thanks for the response. Can landscape support be enabled in future versions of software. Can you take it as feedback?,product_feature_question,app_or_media_issue,False
+2410409,@AppleSupport My phone isn’t on Do Not Disturb and I still don’t receive notifications for text messages. Why is that? 🤔,app_or_media_issue,app_or_media_issue,True
+1362542,@AppleSupport I have a reservation number but want to change payment method. Will that change my delivery date?,order_sales_issue,order_sales_issue,True
+2683846,@AppleSupport This is all I can see https\://t.co/IowxWR51H1,general_or_unclear,app_or_media_issue,False
+2358802,"@AppleSupport - If I buy an iPhone X from the store in NJ, is it unlocked by default? Can I carry anywhere in the world without worrying about carrier? Is international warranty applicable in this case?",order_sales_issue,order_sales_issue,True
+1024586,@AppleSupport is there something I can do to have the autocorrect stop? The new iOS is changing simple words like food to good in my texts.,keyboard_input_issue,keyboard_input_issue,True
+889021,@AppleSupport hey how do I check what date these purchases were made https\://t.co/t7z1iHz4Qe,payment_billing_issue,app_or_media_issue,False
+2624901,"@AppleSupport Progressively getting worse, hence why I need you to run a diag tool so I can determine if I need to replace battery? https\://t.co/xnurVSoD5Q",warranty_repair_recycling,device_performance_issue,False
+1657217,"@505648 @AppleSupport Yep, have already had to charge my iPhone 3x today! 😩 Not cool. 👎🏻",device_performance_issue,app_or_media_issue,False
+1959414,"@AppleSupport a number of my apps keep crashing on me, particularly my @318 app, since the update",app_or_media_issue,device_performance_issue,False
+2287920,I updated my phone and I’m still seeing the A ? Question mark box. 😐 @115858 @applesupport,keyboard_input_issue,software_update_issue,False
+286892,"@AppleSupport yo why has the new update made my alarm not go off on silent!! Nearly made me late for work, care to explains yourselves??🤷‍♂️",app_or_media_issue,software_update_issue,False
+62224,"@AppleSupport When the Sept update ever since then there’s an exclamation point in a circle in most pictures I’m at 11.1 now, updated last night as well",app_or_media_issue,software_update_issue,False
+792769,@AppleSupport I can’t seem to change my push notifications for my emails. The option to do this is no longer their in settings? 🤔,product_feature_question,app_or_media_issue,False
+2280551,@AppleSupport this afternoon. it does not go away,general_or_unclear,app_or_media_issue,False
+1128285,@AppleSupport Set me a appointment with Apple store in Valencia,warranty_repair_recycling,app_or_media_issue,False
+148178,@AppleSupport Have done that and still in the same situ 👎🏻,general_or_unclear,app_or_media_issue,False
+1474741,@AppleSupport will the wireless charging for the iPhone 8 Plus work if it has a pop socket on the back of it?,product_feature_question,hardware_accessory_issue,False
+1845698,@AppleSupport My iPhone has suddenly started charging really slowly. Update ✅ Battery usage check ✅ Still slow! Can you help? #iPhone7Plus,device_performance_issue,device_performance_issue,True
+1548759,@AppleSupport @\_\_hollyhudson\_\_ We all have it downloaded. Please fix it. It’s getting annoying.,general_or_unclear,app_or_media_issue,False
+2139915,Apple’s iOS updated screws up my “i’s” 😒😒😒@AppleSupport stupid,keyboard_input_issue,software_update_issue,False
+2077759,@AppleSupport Some bugs in 11.0.1. I also cannot swipe left and right when my phone is locked – can’t see updates and use camera easily. https\://t.co/vSJnenvk3b,software_update_issue,software_update_issue,True
+2620,@AppleSupport watchOs4 made my watch pointless Browsing music on my phone via the watch was 80% reason for buying it now it’s useless.,app_or_media_issue,app_or_media_issue,True
+627979,Awful service in @115858 store today! Phone is less than a week old and clearly doesn’t work but they can’t help me without the box?! Great when you need your phone for work and it’s totally unreliable. @AppleSupport #iphoneproblems,warranty_repair_recycling,app_or_media_issue,False
+385957,"@AppleSupport I'm using another phone honor but I need my iphone..
+
+I'm prefer using iphone (system and cam and safety) I love and I miss my iphone :(..",general_or_unclear,hardware_accessory_issue,False
+2488652,"@AppleSupport lmao when is my 8 month old, fully updated iPhone 7 going to stop freezing randomly?? Kinda sick of paying hundreds for a phone that’s underperforming 🤷🏻‍♀️",device_performance_issue,device_performance_issue,True
+1858295,@AppleSupport any idea why my phone won't connect to my MacBook Pro ? Really frustrating https\://t.co/VQNUw4jznx,connectivity_issue,connectivity_issue,True
+543708,".\@AppleSupport @115858 - how come there isn't already information here about the widely reported ""2nd December"" bug - my phone keeps crashing/re-starting. I'm due an upgrade and so if this isn't fixed soon and fully I'll be choosing @122986 #Pixel2 Poor.........",device_performance_issue,device_performance_issue,True
+508258,@AppleSupport It did not work ! 😢,general_or_unclear,app_or_media_issue,False
+2136636,my phone keeps logging me out of every single app I have WHYYYYY @AppleSupport,apple_id_icloud_issue,device_performance_issue,False
+53582,@AppleSupport Hi. I cannot reset the security questions after I logged in my account. What to do? :/,apple_id_icloud_issue,app_or_media_issue,False
+2622669,"@AppleSupport See attached. I know how to use the app but when I want to buy a song or album and want to search 'apple music', I can't. I can only search my library &amp; radio. The picture  shows what I'm referring too https\://t.co/rwl8uoC0mH",app_or_media_issue,app_or_media_issue,True
+1954372,@AppleSupport IPhone 6 - Lag and touchscreen problems after ios 11.0.3,device_performance_issue,software_update_issue,False
+446498,"@AppleSupport it's pretty annoying since I can't upload or send any pic because even if it says ""try again later"" it never works",app_or_media_issue,app_or_media_issue,True
+2690905,@AppleSupport can I receive a verification code if I’m roaming ? I’ve been trying to access my iCloud for days now 😒😒,apple_id_icloud_issue,apple_id_icloud_issue,True
+2028664,@AppleSupport No also in the control center !,general_or_unclear,app_or_media_issue,False
+195999,@AppleSupport Yes I am 🙂,general_or_unclear,app_or_media_issue,False
+1734417,@AppleSupport my iPhone started strucking when I got updated new iOS 11.1 plz resolve the issue.,device_performance_issue,software_update_issue,False
+1509390,@AppleSupport why can’t I️ type the letter I without some weird thing going on,keyboard_input_issue,app_or_media_issue,False
+2307908,"Every time I try and call my voicemail there’s no dial tone, nothing @AppleSupport",connectivity_issue,app_or_media_issue,False
+228552,@AppleSupport Why don't the iPads have a Calculator?,product_feature_question,app_or_media_issue,False
+2773129,"honestly, apple music is so shit. why yall removing all my downloaded songs? @115858 @115948 @AppleSupport EVERYTIME I GO TO DOWNLOAD IT AGAIN IT REMOVES OTHER SONGS!!! FUCKING SORT YA SHIT OUT.",app_or_media_issue,app_or_media_issue,True
+1769934,@AppleSupport Why is my phone acting stupid ? Im not going to buy a new one . 😑,general_or_unclear,app_or_media_issue,False
+2058370,"@AppleSupport My iPhone 6s Plus is not synching my music &amp; photos. It keeps saying ""Sync session failed to finish"" Please help.",apple_id_icloud_issue,app_or_media_issue,False
+1824297,@AppleSupport Why does it take 72 hours to change my cell phone number? How about supporting an international relocation? Unacceptable,connectivity_issue,app_or_media_issue,False
+161262,@AppleSupport I can’t back my iPhone up to my MacBook Pro as I keep getting the error “iTunes could not back up the iPhone Jess North because an error occurred while reading from or writing to the iPhone” How can I resolve this as I get a new phone next week and want to transfer?,apple_id_icloud_issue,hardware_accessory_issue,False
+946721,@AppleSupport Do you think this is an issue w/ the beta version on my phone?,software_update_issue,app_or_media_issue,False
+2072007,Yo @AppleSupport since these updates my phone works aswell as a house brick!! Sort this shit out!!,device_performance_issue,software_update_issue,False
+391716,"@AppleSupport after updating to iOS 11.0.2 can’t send sms through contact in dial list , favourite and contact list... very frustrating!",connectivity_issue,software_update_issue,False
+848277,"@AppleSupport me ajuda, minhas Fotos não estão aparecendo no celular 😔",apple_id_icloud_issue,app_or_media_issue,False
+1927621,@AppleSupport Need to edit an address on my iPhone order but chat and phones are all disabled? Help.,order_sales_issue,order_sales_issue,True
+1368820,"@AppleSupport Hey guys, you still haven’t fixed this issue. Not cool. https\://t.co/C7sID4uNWE",general_or_unclear,app_or_media_issue,False
+484554,Has anyone else been having issues with charging your iPhone since the #IOS11 update? @AppleSupport,device_performance_issue,software_update_issue,False
+356447,@AppleSupport Nope. It’s like a very limited number of call logs being displayed. I’d like to have them as big as my messages inbox. Practically as long as a month. Limiting my logs to a 25/50 numbers is awful. Not reasonable to restrict my phone log as primarily an iPhone is to talk over.,product_feature_question,app_or_media_issue,False
+2533256,@AppleSupport A version of iOS 10. I did a hard reset more than a few times with no change after the hard reset.,general_or_unclear,software_update_issue,False
+1990467,"@AppleSupport Hm, settings are fine. I thinks @4305 needs to fix this.",app_or_media_issue,app_or_media_issue,True
+2630221,.\@AppleSupport since upgrading to iOS 11.1.1 my one keyboard issue was fixed but now every time I type “it” It does this craziness (below) AND I don’t have any phrase shortcuts. HELP it’s driving me crazy! https\://t.co/AEsMc2Jl89,keyboard_input_issue,keyboard_input_issue,True
+1676892,"@AppleSupport ever since I updated to iOS11 the camera takes really long to work. It gives a black screen for a few moments, then works",app_or_media_issue,software_update_issue,False
+854549,@AppleSupport i preordered niall horans new album before it was released and now its saying that i have to pay for it again,payment_billing_issue,order_sales_issue,False
+1628461,My emails are back to normal but my Apple Music still isn’t working ugh I wanna cry @115948 @AppleSupport,app_or_media_issue,app_or_media_issue,True
+1998482,"@AppleSupport Any idea why my iPhone said ""Invalid SIM"" at the top...?",connectivity_issue,app_or_media_issue,False
+1913277,Will this ever get fixed? @115858 @AppleSupport https\://t.co/bYZGkdzcCQ,general_or_unclear,app_or_media_issue,False
+741057,@AppleSupport is there a easy way to remove out of date wallet passes? It’s crazy having to tap 4 times to delete one pass,product_feature_question,app_or_media_issue,False
+2619878,"I really need to know if you will take a long time to find a solution for these hanging problem @AppleSupport 
+
+@115858 I lost my data twice in last month, please try to figure out how you will fix this situation,
+
+your reply is highly appreciated.",device_performance_issue,app_or_media_issue,False
+1774500,@AppleSupport Well thank you for replying. I figured it was glitch so I understand but it’s truly frustrating. Thanks for the temp solution 💕,general_or_unclear,app_or_media_issue,False
+2520802,@AppleSupport can we do a battery test on my iPhone 7? I am having some issues.,device_performance_issue,device_performance_issue,True
+695371,"@AppleSupport my phone won't install the new iOS 11 and keeps sending me that there's an error message, what should I do ?",software_update_issue,software_update_issue,True
+962216,"Meu, to tendo problema com o wifi, n sei se o problema é o iOS 11 ou o iphone 8 @AppleSupport help me",connectivity_issue,software_update_issue,False
+2945671,"@AppleSupport Is this a genuine email add from Apple?
+
+https:\_\_email\_\_
+
+Thanks",security_phishing_issue,app_or_media_issue,False
+1986900,ATTENTION. @AppleSupport I️ need assistance. My phone won’t let me type an uppercase i. It shows this symbol instead i https\://t.co/OsQsvJezGB,keyboard_input_issue,app_or_media_issue,False
+2132077,"@AppleSupport doesn't happen with wi-fi. it's the first time that happens. I did not have ""on"" the wifi nor the cellular data, when i turned on the data, it froze for at least 30 mins. (the reset function did not work)",connectivity_issue,connectivity_issue,True
+382417,@AppleSupport what is going on with typing the letter I️ and getting A?,keyboard_input_issue,keyboard_input_issue,True
+797588,My phone has been turning do not disturb on since the update. Do u know how critical it is 2 have my phone on as a Publicist?-\@AppleSupport,app_or_media_issue,software_update_issue,False
+2278489,@AppleSupport When I try to record/take pictures with the camera app (both from the lock screen and from the app) it looks blurry and won’t let me capture,app_or_media_issue,app_or_media_issue,True
+146783,"Is this a normal behavior I have this since iOS7 on Music App can’t you correct that annoying bug? The bottom is truncated the top bar is overlapping on iPhone 6, 6s. We need to kill the app to correct it. @AppleSupport, this happens randomly https\://t.co/f5N62IylHq",app_or_media_issue,app_or_media_issue,True
+925608,@AppleSupport Please help my alarm on my iphone isn’t going off when i turn it on i have restarted my phone to see if it would help but it doesn’t,app_or_media_issue,device_performance_issue,False
+2255348,um @AppleSupport @115948 can someone explain why an album I preordered and purchased is no longer in my library and doesn’t let me play anything other than previews,app_or_media_issue,order_sales_issue,False
+2263467,"@AppleSupport Yes. I thought it was really weird because the first time I added it, it said I couldn’t play it. Then, I deleted it and re-installed it. Now, it works.",app_or_media_issue,app_or_media_issue,True
+1666278,"@AppleSupport It only happening on my iPhone 6s and iPad Pro, it still connects to wifi but will often randomly loses connection",connectivity_issue,connectivity_issue,True
+2121578,@AppleSupport even with the new update the WiFi / Bluetooth issues persist. Then the podcast app is quite annoying.. no continuous playback??,connectivity_issue,connectivity_issue,True
+188563,"I don't get your guys, @AppleSupport ...i goto your store to get help, and they can't help me.  they setup an #AppleCare call and...",support_contact_issue,app_or_media_issue,False
+919165,@AppleSupport I'm with #iphone7 and updated to 11.0.3 as soon as its available on my device. Thx,general_or_unclear,software_update_issue,False
+2552419,@AppleSupport since upgrading the Apple Watch software the battery drains very quickly,device_performance_issue,device_performance_issue,True
+1744884,"Actualización de iOS 11.1 sucks. @AppleSupport, Traba Llamadas, Se bloque seguido. Hay que reiniciar para que vuelva a funcionar😡😡😡 https\://t.co/WS08VbWZil",device_performance_issue,software_update_issue,False
+2520676,@AppleSupport My carrier is AT&amp;T . Also I will follow the steps provided . Thank you,general_or_unclear,app_or_media_issue,False
+2512276,"meu passatempo é meu celular, lá tem minhas músicas, minhas frases, meus estudos, meu app do nubank, como que eu vou conseguir ficar sem ? :(  thanks  @AppleSupport @118936",general_or_unclear,app_or_media_issue,False
+2743018,"@AppleSupport you suck so bad. I hate you. Waiting forever for @118721 to load, you never seem to like my recently created password. Then iTunes just hangs, as you can see in this photo.  What a waste of time. https\://t.co/P6cRmsXDbP",apple_id_icloud_issue,app_or_media_issue,False
+805771,"@AppleSupport 
+
+@16937 
+
+Opening pictures in messenger is buggy. When you click to open then zoom and pan around- it crashes.",app_or_media_issue,device_performance_issue,False
+1802384,um….. @AppleSupport why did my lightening cable just melt and burn me when I tried to charge my iPhone SE? https\://t.co/AQQ4oqHh2o,hardware_accessory_issue,hardware_accessory_issue,True
+2436025,"@AppleSupport Yes, on my IPhone. I️t tries to autocorrect in iMessage. It also appears on Facebook and Twitter.",keyboard_input_issue,keyboard_input_issue,True
+603998,@AppleSupport do better,general_or_unclear,app_or_media_issue,False
+2688164,"@AppleSupport Did that. Still issues. Eg. this morning 38 mins of normal Safari use (no video, etc) and battery is down 27%.",device_performance_issue,device_performance_issue,True
+1915729,im soooo over this fucking ios 11 update my phone has dropped more calls because my phone has frozen than EVER before. @AppleSupport,device_performance_issue,software_update_issue,False
+1313930,@AppleSupport I’ve done that. In preserve settings its turned to off. Then I turn it off in the camera. Later I open the camera and it’s on again.,app_or_media_issue,app_or_media_issue,True
+2816413,@AppleSupport i have vibrate disabled but my phone still vibrates when i use TouchID to make a purchase in the app store help,device_performance_issue,app_or_media_issue,False
+1784948,@AppleSupport so is another update coming? This 11.0.2 has ruined my phone. I can’t use iTunes/Apple Music AT ALL,app_or_media_issue,app_or_media_issue,True
+554747,"@AppleSupport this is the worst bug ever, decided to not update before I go to bed cause I wanted to listen to some podcast (1 am still not affected), woke up to a respringing POS brick... if the charging damages my iPhone X will it be covered?",warranty_repair_recycling,software_update_issue,False
+1547669,@479163 @479164 I️’m not sure but @AppleSupport better fix is ASAP,general_or_unclear,app_or_media_issue,False
+2472878,.\@AppleSupport tip: iMessage- bring feature to allow you to pin individual or group chats. Thanks.,product_feature_question,app_or_media_issue,False
+1412721,@AppleSupport Yes my software is fully up to date,general_or_unclear,app_or_media_issue,False
+1170838,"@AppleSupport Turning off in control centre, then after do not disturb active in car then deactivated when disconnected the WiFi is back same with APM ✈️",product_feature_question,connectivity_issue,False
+1727714,"@AppleSupport Put in pairing mode and phone can see it wouldnt connect, reset beats x and tried again no difference, reset bluetooth on phone nothing",connectivity_issue,connectivity_issue,True
+1521214,@AppleSupport Just on the phone with Apple support for an hour and a half trying to get on the Apple upgrade plan and no luck. Any help?,order_sales_issue,software_update_issue,False
+2014678,@AppleSupport why is it that every time i️ type the letter “i️” it shows the letter “A” and a question mark.,keyboard_input_issue,app_or_media_issue,False
+284068,@AppleSupport iOS 11.0.2 iPhone 7,general_or_unclear,software_update_issue,False
+2438485,@AppleSupport You know what?! Why I didn’t restart the iphone before tweeting that is beyond me. Seem to be OK now. Thank you!,general_or_unclear,device_performance_issue,False
+491469,@AppleSupport I’m using the 6 Plus right now lol,general_or_unclear,app_or_media_issue,False
+1146069,"@AppleSupport Hello,I'm jp.
+
+I think the control menu is nice,but the keyboard deleted good point “simple design”.So can I back default?",product_feature_question,keyboard_input_issue,False
+2455361,"@AppleSupport Hi team, my dad's been bounced back and forth between Apple Store and Support for an iPhone replacement battery issue. He's spent the entire night talking to different departments to no avail. Could you assist?",warranty_repair_recycling,warranty_repair_recycling,True
+1153803,"@AppleSupport I’ve lived in Houston 20+ years, and can get pretty much everywhere on my own, but I still use Maps every single day to get where I’m going. For reassurance. So fix it!",app_or_media_issue,app_or_media_issue,True
+114520,@AppleSupport @6523 @115817,general_or_unclear,app_or_media_issue,False
+1133626,@318 @AppleSupport Hi.. This happens ALL the time! I’m currently playing a podcast yet the last song shows in control center https\://t.co/fC9gTO6jv7,app_or_media_issue,app_or_media_issue,True

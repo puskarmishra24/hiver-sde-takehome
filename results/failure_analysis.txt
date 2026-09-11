@@ -1,0 +1,102 @@
+TOP 5 INTENT CLASSIFICATION FAILURE MODES
+==================================================
+
+1. general_or_unclear -> app_or_media_issue
+   Examples: 22
+
+   Tweet ID: 2039356
+   Message: I did exactly that @AppleSupport yet ..... or do you want me to throwaway my iPhone 7 and get the X? I’m not understanding anything again https\://t.co/dszcLP2lZF
+
+   Tweet ID: 541132
+   Message: @230273 @AppleSupport Thanks!
+
+   Tweet ID: 1705374
+   Message: @516902 @115858 @AppleSupport this has been fucking me up all day
+
+   Tweet ID: 1629794
+   Message: @65298 @AppleSupport Hahaha help me!
+
+   Tweet ID: 1507293
+   Message: @AppleSupport what is going on?
+
+--------------------------------------------------
+
+2. product_feature_question -> app_or_media_issue
+   Examples: 11
+
+   Tweet ID: 2623623
+   Message: Please @115858 @AppleSupport @116333 @123857 @119462 Repair the way @12228 show the released date app. Thank you https\://t.co/JUjDyD5ZTs
+
+   Tweet ID: 2774315
+   Message: @AppleSupport Yeah, I did that. However, the map was not edited to reflect my (correct) feedback. How do I make sure the map does get changed?
+
+   Tweet ID: 445986
+   Message: @AppleSupport re: Keynote…why is the default layout for presentations 4:3? Apple pushes progress, so shouldn’t the default be 16:9?
+
+   Tweet ID: 1616675
+   Message: @AppleSupport Thanks for the response. Can landscape support be enabled in future versions of software. Can you take it as feedback?
+
+   Tweet ID: 792769
+   Message: @AppleSupport I can’t seem to change my push notifications for my emails. The option to do this is no longer their in settings? 🤔
+
+--------------------------------------------------
+
+3. keyboard_input_issue -> app_or_media_issue
+   Examples: 10
+
+   Tweet ID: 1527759
+   Message: MY I️ ISNT WORKING APPLE (eye but the single letter) @115858 @AppleSupport
+
+   Tweet ID: 1524131
+   Message: Seriously @AppleSupport @115858 why can’t EYE TYPE THE LETTER EYE https\://t.co/vm4KaEeem4
+
+   Tweet ID: 1674094
+   Message: @AppleSupport It doesn’t change to an I it’s just a box with a question mark in it
+
+   Tweet ID: 2140948
+   Message: @AppleSupport @118936 @23150 @160959 I️ I️ I️ I️ I️ I️ I️ I️ I️ I️ I️ I️ I️ I️ please help I️ I️ I️ I️ I️
+
+   Tweet ID: 2636962
+   Message: Okay. @AppleSupport when will my phone let me type regular capital i’s again?
+
+--------------------------------------------------
+
+4. device_performance_issue -> software_update_issue
+   Examples: 10
+
+   Tweet ID: 946675
+   Message: @AppleSupport Didn’t have these issues prior to installing update. I know others with same issue of phone bogging down since update
+
+   Tweet ID: 427833
+   Message: @AppleSupport @115858 the battery life of my 6S is horrendous after iOS https\://t.co/t4CyQ5ZBMd REALLY need to address this ASAP
+
+   Tweet ID: 1800931
+   Message: @AppleSupport Why is my phone even worse after the last iOS update I have to charge twice a day now
+
+   Tweet ID: 506501
+   Message: @AppleSupport using IOS 11.1.2, a dark screen with loading circle icon.
+
+   Tweet ID: 1954372
+   Message: @AppleSupport IPhone 6 - Lag and touchscreen problems after ios 11.0.3
+
+--------------------------------------------------
+
+5. apple_id_icloud_issue -> app_or_media_issue
+   Examples: 8
+
+   Tweet ID: 249331
+   Message: @AppleSupport put all my PICTURES AND SHIT BACK
+
+   Tweet ID: 2242117
+   Message: @AppleSupport These messages are invisibles ...my iPhone sends that automatically. But my number is not registered by iMessage
+
+   Tweet ID: 554720
+   Message: @2531 @AppleSupport        I just got a new iPhone but when my sister transferred my media and everything else to this new phone EVERYTHING GOT DELETED and I’m so upset I lost everything 😭
+
+   Tweet ID: 2548157
+   Message: @AppleSupport hi, constantly try to get my artist page verified-start process, but cant get past my log in details as page always times out
+
+   Tweet ID: 53582
+   Message: @AppleSupport Hi. I cannot reset the security questions after I logged in my account. What to do? :/
+
+--------------------------------------------------

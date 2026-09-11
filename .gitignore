@@ -1,0 +1,19 @@
+@"
+.env
+.env.*
+!.env.example
+
+__pycache__/
+*.py[cod]
+
+.venv/
+venv/
+env/
+
+data/raw/*.csv
+data/processed/*.joblib
+results/*.joblib
+
+.DS_Store
+Thumbs.db
+"@ | Set-Content .gitignore

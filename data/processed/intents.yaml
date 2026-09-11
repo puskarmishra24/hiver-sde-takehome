@@ -1,0 +1,97 @@
+software_update_issue:
+  description: Problems caused by or related to an iOS or macOS software update.
+  examples:
+    - "My phone is slow after the update"
+    - "The latest iOS update broke my phone"
+    - "I can't install the update"
+
+device_performance_issue:
+  description: Device performance, freezing, restarting, overheating, battery drain, or unexpected shutdown problems.
+  examples:
+    - "My iPhone keeps freezing"
+    - "My battery drains very quickly"
+    - "My phone keeps restarting"
+
+keyboard_input_issue:
+  description: Problems involving typing, keyboard behavior, autocorrect, characters, emojis, or text input.
+  examples:
+    - "My keyboard keeps changing what I type"
+    - "Every time I type I I get a question mark"
+    - "My keyboard is lagging"
+
+connectivity_issue:
+  description: Problems with Wi-Fi, Bluetooth, cellular connectivity, or Personal Hotspot.
+  examples:
+    - "My WiFi keeps turning on"
+    - "My Bluetooth headphones won't connect"
+    - "Personal Hotspot isn't working"
+
+app_or_media_issue:
+  description: Problems with applications, Apple Music, podcasts, notifications, video, or other media functionality.
+  examples:
+    - "Apple Music isn't working"
+    - "My apps keep crashing"
+    - "My podcasts won't play"
+
+apple_id_icloud_issue:
+  description: Problems involving Apple ID, iCloud login, syncing, contacts, backups, or iCloud data.
+  examples:
+    - "I can't log into iCloud"
+    - "My contacts aren't syncing"
+    - "How do I move information to my new Apple ID?"
+
+payment_billing_issue:
+  description: Payment methods, billing, charges, Apple Pay, or payment-related problems.
+  examples:
+    - "My Apple Pay payment was declined"
+    - "How do I update my credit card?"
+    - "I was charged incorrectly"
+
+order_sales_issue:
+  description: Product orders, reservations, delivery dates, purchasing products, or sales support.
+  examples:
+    - "Where is my iPhone order?"
+    - "When will my iPhone X arrive?"
+    - "Can I order this phone?"
+
+hardware_accessory_issue:
+  description: Physical Apple devices or accessories such as cables, AirPods, headphones, Apple Watch, or hardware defects.
+  examples:
+    - "My Lightning cable is corroded"
+    - "My AirPods won't connect"
+    - "My Apple Watch is broken"
+
+security_phishing_issue:
+  description: Suspicious emails, fake Apple messages, phishing attempts, or security concerns.
+  examples:
+    - "Is this Apple email fake?"
+    - "I received a suspicious email"
+    - "Is this message really from Apple?"
+
+support_contact_issue:
+  description: Questions about contacting Apple, support availability, phone support, or reaching a support representative.
+  examples:
+    - "Are the call centres open?"
+    - "How can I talk to a real person?"
+    - "Did you receive my DM?"
+
+warranty_repair_recycling:
+  description: Warranty coverage, repairs, service eligibility, or recycling Apple products.
+  examples:
+    - "Does my iPhone have international warranty?"
+    - "Where can I recycle my Apple device?"
+    - "Can Apple repair this?"
+
+product_feature_question:
+  description: Questions asking how an Apple product or feature works without reporting a specific failure.
+  examples:
+    - "How does this feature work?"
+    - "Can I use Apple Pay on this iPhone?"
+    - "How do I use this feature?"
+
+general_or_unclear:
+  description: The customer's message is too vague, incomplete, or does not fit another intent.
+  examples:
+    - "Help"
+    - "Hello"
+    - "Didn't work"
